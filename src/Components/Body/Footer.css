@@ -1,0 +1,21 @@
+.main-footer{
+color: white;
+background-color:purple;
+padding-top: 3em;
+position: relative;
+bottom: 55;
+width: 100%;
+}
+.main{
+    margin: 0px;
+    padding: 50px;
+    border-radius: 100px;
+}
+.input{
+    border: solid 2px violet;
+    border-radius: 50px;
+}
+.bt{
+    border: solid 5px violet;
+    border-radius: 50px;
+}
